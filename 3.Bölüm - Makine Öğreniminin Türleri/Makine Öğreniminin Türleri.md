@@ -1,4 +1,4 @@
-## 1. Bölüm  : Makine Öğreniminin Türleri
+## 3. Bölüm  : Makine Öğreniminin Türleri
 
 Makine Öğreniminin Türleri
 
