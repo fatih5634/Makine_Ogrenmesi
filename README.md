@@ -1,4 +1,9 @@
-##  Makine Öğrenmesi
+##  Makine Öğrenmesine Giriş
+Atatürk Üniversitesi
+Bilgisayar Mühendisliği(İ.Ö.)
+Fatih Aydın
+
+
 ### İçindekiler
 
 
