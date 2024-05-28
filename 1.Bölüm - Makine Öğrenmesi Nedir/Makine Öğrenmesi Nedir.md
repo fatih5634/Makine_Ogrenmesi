@@ -7,10 +7,11 @@ Temel Bileşenler
 
 Veri Seti
 
-    Tanım: Algoritmanın öğrenmesi için gerekli olan veri. Bu veri seti genellikle eğitim (training) ve test (testing) olarak ikiye ayrılır. Eğitim verisi, modelin öğrenmesi için kullanılırken, test verisi modelin     
-    performansını değerlendirmek için kullanılır.
-    Örnek: Bir e-posta spam filtreleme sisteminde, binlerce e-postadan oluşan bir veri seti kullanılır. Bu veri seti, her bir e-postanın spam olup olmadığını belirten etiketler içerir. Bir sağlık uygulamasında ise, 
-    hastaların sağlık geçmişi, genetik bilgileri, yaşam tarzı ve mevcut sağlık durumu gibi veriler kullanılarak bir veri seti oluşturulabilir. Bu veri seti, bir hastalığın erken teşhisi için kullanılabilir.
+    Tanım: Algoritmanın öğrenmesi için gerekli olan veri. Bu veri seti genellikle eğitim (training) ve test (testing) olarak ikiye ayrılır. 
+    Eğitim verisi, modelin öğrenmesi için kullanılırken, test verisi modelin performansını değerlendirmek için kullanılır.
+    Örnek: Bir e-posta spam filtreleme sisteminde, binlerce e-postadan oluşan bir veri seti kullanılır. Bu veri seti, her bir e-postanın 
+    spam olup olmadığını belirten etiketler içerir. Bir sağlık uygulamasında ise, hastaların sağlık geçmişi, genetik bilgileri, yaşam tarzı ve 
+    mevcut sağlık durumu gibi veriler kullanılarak bir veri seti oluşturulabilir. Bu veri seti, bir hastalığın erken teşhisi için kullanılabilir.
     
 Özellikler (Features)
 
