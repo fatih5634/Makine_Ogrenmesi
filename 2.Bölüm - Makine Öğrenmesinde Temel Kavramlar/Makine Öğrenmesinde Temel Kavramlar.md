@@ -22,12 +22,6 @@ Entropi (Bilgi Kazancı):
       veri setinin düzensiz ve belirsiz olduğunu gösterir.
       Örnek: Bir sınıflandırma probleminde, entropi hesaplanarak veri setinin ne kadar karışık olduğu belirlenir. 
 
-Bilgi Kazancı:
-
-      Tanım: Bilgi kazancı, bir özelliğin veri setindeki entropiyi ne kadar azalttığını ölçer. Yani, belirli bir 
-      özellik kullanılarak veri setindeki belirsizliğin ne kadar azaltılabileceğini gösterir.
-      Örnek: Karar ağacı algoritmalarında, bilgi kazancı hesaplanarak her düğümde en iyi bölmeyi sağlayan özellik seçilir.
-
 Kayıp Veri
 
       Tanım: Kayıp veri, veri setinde eksik veya mevcut olmayan değerleri ifade eder. Kayıp veriler, analiz ve 
