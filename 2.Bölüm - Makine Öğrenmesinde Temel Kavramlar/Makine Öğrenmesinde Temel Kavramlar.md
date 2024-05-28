@@ -52,6 +52,8 @@ Veri Tabanı Yönetimi
       DBMS, verilerin güvenliği, bütünlüğü ve performansını sağlamak için çeşitli araçlar ve teknikler sunar.
 
 
+![Makine_öğrenmesi_temel_kavramlar](../Makine_öğrenmesi_temel_kavramlar.png)
+
 Bu Kavramların Makine Öğrenmesindeki Rolü
 
 Özellik Vektörleri: 
