@@ -24,11 +24,11 @@ Denetimsiz Öğrenme (Unsupervised Learning)
 
 Yarı Denetimli Öğrenme (Semi-Supervised Learning)
 
-      Tanım: Yarı denetimli öğrenme, hem etiketli hem de etiketlenmemiş verilerin birlikte kullanıldığı makine öğrenmesi türüdür. 
-      Genellikle etiketli veri az olduğunda ve etiketlenmemiş veri çok olduğunda kullanılır.
+      Tanım: Yarı denetimli öğrenme, hem etiketli hem de etiketlenmemiş verilerin birlikte kullanıldığı makine öğrenmesi 
+      türüdür. Genellikle etiketli veri az olduğunda ve etiketlenmemiş veri çok olduğunda kullanılır.
       Örnek: Görüntü tanıma, metin sınıflandırma.
-      Algoritmalar: Çeşitli algoritmalar bu tür öğrenmeye adapte edilebilir; etiket yayılımı (label propagation), yarı denetimli 
-      destek vektör makineleri.
+      Algoritmalar: Çeşitli algoritmalar bu tür öğrenmeye adapte edilebilir; etiket yayılımı (label propagation), 
+      yarı denetimli destek vektör makineleri.
       Uygulama: Binlerce etiketsiz görüntü ve birkaç etiketli görüntü ile model eğitilir ve model, etiketsiz görüntüleri 
       doğru bir şekilde sınıflandırmayı öğrenir.
 
