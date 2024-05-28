@@ -17,15 +17,20 @@ Veri Seti
     
 Özellikler (Features)
 
-    Tanım: Veri setindeki her bir örneği tanımlayan nitelikler. Özellikler, modelin verileri anlaması ve sınıflandırması için kullanılır.
-    Örnek: Bir e-posta spam filtresi için özellikler, e-posta içeriğindeki kelime frekansları, gönderici bilgisi, konu başlığı ve eklerin varlığı gibi bilgileri içerebilir. Bir finansal kredi skorlama sisteminde ise, 
-    başvuru sahiplerinin kredi geçmişi, gelir durumu, mevcut borçları, ödeme alışkanlıkları gibi özellikler kullanılır. Bu özellikler, bir kişinin kredi riskini değerlendirmeye yardımcı olur.
+    Tanım: Veri setindeki her bir örneği tanımlayan nitelikler. Özellikler, modelin verileri anlaması ve sınıflandırması için 
+    kullanılır.
+    Örnek: Bir e-posta spam filtresi için özellikler, e-posta içeriğindeki kelime frekansları, gönderici bilgisi, konu başlığı 
+    ve eklerin varlığı gibi bilgileri içerebilir. Bir finansal kredi skorlama sisteminde ise, başvuru sahiplerinin kredi geçmişi, 
+    gelir durumu, mevcut borçları, ödeme alışkanlıkları gibi özellikler kullanılır. Bu özellikler, bir kişinin kredi riskini 
+    değerlendirmeye yardımcı olur.
   
 Model
 
-    Tanım: Verileri analiz eden ve tahminlerde bulunan matematiksel yapı. Eğitim sürecinde model, verilerden öğrenir ve bu öğrendiklerini yeni veriler üzerinde uygular.
-    Örnek: Lineer regresyon modeli, ev fiyatlarını tahmin etmek için kullanılabilir. Bu model, evin büyüklüğü, oda sayısı, konumu gibi özellikleri kullanarak evin fiyatını tahmin eder. Bir sinir ağı (neural network) 
-    modeli ise, el yazısı karakterlerin tanınması için kullanılabilir. Model, el yazısı örneklerini analiz ederek her karakterin doğru bir şekilde tanınmasını sağlar.
+    Tanım: Verileri analiz eden ve tahminlerde bulunan matematiksel yapı. Eğitim sürecinde model, verilerden öğrenir ve bu 
+    öğrendiklerini yeni veriler üzerinde uygular.
+    Örnek: Lineer regresyon modeli, ev fiyatlarını tahmin etmek için kullanılabilir. Bu model, evin büyüklüğü, oda sayısı, 
+    konumu gibi özellikleri kullanarak evin fiyatını tahmin eder. Bir sinir ağı (neural network) modeli ise, el yazısı karakterlerin 
+    tanınması için kullanılabilir. Model, el yazısı örneklerini analiz ederek her karakterin doğru bir şekilde tanınmasını sağlar.
 
 Algoritma
 
