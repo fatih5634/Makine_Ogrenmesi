@@ -3,6 +3,9 @@
 Makine öğrenmesi, bilgisayarların açıkça programlanmadan veri ve deneyimlerden öğrenmesini sağlayan bir yapay zeka alt alanıdır. Yani, makine öğrenmesi algoritmaları, belirli görevleri yerine getirmek için veri üzerinde eğitim alır ve bu eğitim sürecinden elde edilen bilgileri kullanarak yeni veriler üzerinde tahminlerde bulunur veya kararlar alır. Makine öğrenmesi, birçok farklı alanda kullanılır ve çeşitli yöntemlere sahiptir. İşte makine öğrenmesinin temel bileşenleri ve türleri:
 
 
+![Makine_öğrenmesi_nedir](../Makine_öğrenmesi_nedir.jpg)
+
+
 Temel Bileşenler
 
 Veri Seti
