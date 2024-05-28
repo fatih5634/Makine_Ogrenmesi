@@ -20,9 +20,9 @@ Veri Seti
     Tanım: Veri setindeki her bir örneği tanımlayan nitelikler. Özellikler, modelin verileri anlaması ve sınıflandırması için 
     kullanılır.
     Örnek: Bir e-posta spam filtresi için özellikler, e-posta içeriğindeki kelime frekansları, gönderici bilgisi, konu başlığı 
-    ve eklerin varlığı gibi bilgileri içerebilir. Bir finansal kredi skorlama sisteminde ise, başvuru sahiplerinin kredi geçmişi, 
-    gelir durumu, mevcut borçları, ödeme alışkanlıkları gibi özellikler kullanılır. Bu özellikler, bir kişinin kredi riskini 
-    değerlendirmeye yardımcı olur.
+    ve eklerin varlığı gibi bilgileri içerebilir. Bir finansal kredi skorlama sisteminde ise, başvuru sahiplerinin kredi 
+    geçmişi, gelir durumu, mevcut borçları, ödeme alışkanlıkları gibi özellikler kullanılır. Bu özellikler, bir kişinin kredi 
+    riskini değerlendirmeye yardımcı olur.
   
 Model
 
