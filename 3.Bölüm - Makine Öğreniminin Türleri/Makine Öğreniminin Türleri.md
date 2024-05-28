@@ -55,4 +55,7 @@ Takviyeli Öğrenme (Reinforcement Learning)
       otomatik olarak öğrenir ve bu özellikleri görüntü sınıflandırma için kullanır.
 
 
+![Makine_öğrenmesi_türleri](../Makine_öğrenmesi_türleri.png)
+
+
 Bu makine öğrenmesi türleri, farklı problem türlerine ve veri yapılarına uygun çeşitli yöntemler sunar. Denetimli ve denetimsiz öğrenme, en yaygın kullanılan türlerdir, ancak yarı denetimli öğrenme ve takviyeli öğrenme de belirli senaryolarda çok etkili olabilir. Özellik öğrenme ise, özellikle derin öğrenme alanında büyük önem taşır ve karmaşık veri yapılarını anlamada kritik rol oynar.
