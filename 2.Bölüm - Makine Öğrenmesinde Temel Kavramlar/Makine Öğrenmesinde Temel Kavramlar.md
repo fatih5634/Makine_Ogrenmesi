@@ -4,9 +4,10 @@ Makine Öğrenmesi Temel Kavramları
 
 Özellik (Öznitelik) Vektörleri
 
-      Tanım: Özellik vektörleri, her bir veri örneğinin niteliklerini matematiksel olarak temsil eden bir dizi sayıdır. Her bir özellik (öz nitelik), veri setindeki belirli bir özelliği veya niteliği temsil eder.
-      Örnek: Bir ev fiyat tahmin modeli için özellikler evin büyüklüğü, oda sayısı, yaş, konum gibi faktörler olabilir. Bir ev için özellik vektörü [150, 3, 20, 1] şeklinde olabilir (150 metrekare, 3 oda, 20 yıllık, konum 
-      1).
+      Tanım: Özellik vektörleri, her bir veri örneğinin niteliklerini matematiksel olarak temsil eden bir dizi sayıdır. 
+      Her bir özellik (öz nitelik), veri setindeki belirli bir özelliği veya niteliği temsil eder.
+      Örnek: Bir ev fiyat tahmin modeli için özellikler evin büyüklüğü, oda sayısı, yaş, konum gibi faktörler olabilir. 
+      Bir ev için özellik vektörü [150, 3, 20, 1] şeklinde olabilir (150 metrekare, 3 oda, 20 yıllık, konum 1).
 
 Eğitim Modelleri
 
